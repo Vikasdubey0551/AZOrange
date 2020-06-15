@@ -14,7 +14,9 @@ Installation (Using Ubuntu Precise Pangolin 12.04):
        cd AZCompTox-AZOrange-XXXXXXX/install
        
 **5.** Prepare the system with 3rd party dependencies (inside the <installDir>/AZOrange/install dir):
+       
        ./prepareUbuntu4AZO.sh
+       
 **6.** Create/configure a setup.ini file from a template (inside the <installDir>/AZOrange/install dir):
 
        cp setup.ini.ubuntu setup.ini
