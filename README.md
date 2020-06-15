@@ -3,7 +3,9 @@ AZOrange is a customization for the open source software Orange.
 Installation (Using Ubuntu Precise Pangolin 12.04):
 ===============================================================================
 **1.** Install all available system updates
+
 **2.** Download the '.tar.gz' latest version of AZOrange from https://github.com/AZCompTox/AZOrange/tags 
+
 **3.** Extract the code from the downloaded file:
 
        tar xfz TheDownloadedFileName
