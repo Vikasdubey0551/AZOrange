@@ -25,8 +25,8 @@ Installation (Using Ubuntu Precise Pangolin 12.04):
 
        installDir = YourDesiredInstallFullPath
        
-   **7.1** Configure other settings if needed accordingly to your system.
-   **7.2** If using Ubuntu 10.04-64bits, also make the following changes:
+   * Configure other settings if needed accordingly to your system.
+   * If using Ubuntu 10.04-64bits, also make the following changes:
         
    **a** Change python version:
    > PYTHON_VER = 2.6
